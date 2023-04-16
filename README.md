@@ -12,6 +12,6 @@ I’m studying Applied Mathematics  (4-year Bachelor’s Degree program) at the 
 - I’m interested in psychology
 - I have system thinking
 
-#### I want to start my career as a systems analyst 
+### I want to start my career as a systems analyst 
 
 
