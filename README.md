@@ -1,10 +1,10 @@
 # Here I collect my study projects and useful links 
 
-## 1.About my educational background
+## About my educational background
 
 I’m studying Applied Mathematics  (4-year Bachelor’s Degree program) at the Faculty of Mathematics and Information Technology (Ulyanovsk State University), 2020-2024
 
-## 2. About me, my soft-skills and ambitions 
+## About me, my soft-skills and ambitions 
 
 ### My name is Anya and I’m 19 years old 
 
