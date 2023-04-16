@@ -1,16 +1,17 @@
-### Hi there 👋
+# Here I collect my study projects and useful links 
 
-<!--
-**quasimuzzle/quasimuzzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1.About my educational background
 
-Here are some ideas to get you started:
+I’m studying Applied Mathematics  (4-year Bachelor’s Degree program) at the Faculty of Mathematics and Information Technology (Ulyanovsk State University), 2020-2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2. About me, my soft-skills and ambitions 
+
+### My name is Anya and I’m 19 years old 
+
+- I consider myself a “highly emotionally intelligent person”
+- I’m interested in psychology
+- I have system thinking
+
+#### I want to start my career as a systems analyst 
+
+
