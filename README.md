@@ -8,7 +8,7 @@ I’m studying Applied Mathematics  (4-year Bachelor’s Degree program) at the 
 
 My name is Anya and I’m 20 years old
 
-#What I’ve already learned:
+# What I’ve already learned:
 - mathematical analysis
 - functional analysis
 - discrete mathematics
@@ -22,6 +22,9 @@ My name is Anya and I’m 20 years old
 - theory of random processes
 - game theory and linear programming
 - algorithms and data structures, C++
+
+# What I’m going to learn:
+
 
 
  
