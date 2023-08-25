@@ -6,7 +6,8 @@ I’m studying Applied Mathematics  (4-year Bachelor’s Degree program) at the 
 
 ## About me
 
-My name is Anya and I’m 20 years old
+My name is Anya and I’m 20 years old, my telegram channel https://t.me/quasi_notebook 
+
 
 # What I’ve already learned:
 - mathematical analysis
@@ -22,10 +23,15 @@ My name is Anya and I’m 20 years old
 - theory of random processes
 - game theory and linear programming
 - algorithms and data structures, C++
+- PostgreSQL
+- linux 
 
 # What I’m going to learn:
 
-
+- Python for data analysis
+- ML
+- PyTorch
+- Docker
 
  
 
