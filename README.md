@@ -10,24 +10,28 @@ My name is Anya and I’m 20 years old, my telegram channel https://t.me/quasi_n
 
 
 # What I’ve already learned:
-- mathematical analysis
-- functional analysis
-- discrete mathematics
-- complex analysis
-- linear algebra 
-- analytical geometry 
-- combinatorics 
+- Mathematical analysis
+- Functional analysis
+- Discrete mathematics
+- Complex analysis
+- Linear algebra and analytical geometry 
+- Combinatorics (basic university course)
 - Probability theory 
-- mathematical statistics 
-- differential equations 
-- theory of random processes
-- game theory and linear programming
-- algorithms and data structures, C++
+- Mathematical statistics 
+- Differential equations 
+- Theory of random processes
+- Game theory and linear programming
+- Algorithms and data structures, C++
 - PostgreSQL
-- linux 
+- Linux 
 
 # What I’m going to learn:
 
+- Modeling and simulation in Python 
+- Risk theory (university course)
+- Queuing theory (university course)
+- Kotlin android development course for beginners
+- Web development course for beginners
 - Python for data analysis
 - ML
 - PyTorch
