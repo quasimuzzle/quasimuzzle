@@ -2,7 +2,7 @@
 
 ### About my educational background
 
-I’m studying Applied Mathematics  (4-year Bachelor’s Degree program) at the Faculty of Mathematics and Information Technology (Ulyanovsk State University), 2020-2024
+Applied Mathematics  (4-year Bachelor’s Degree program) at the Faculty of Mathematics and Information Technology (Ulyanovsk State University), 2020-2024
 
 ### About me
 
