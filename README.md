@@ -1,7 +1,5 @@
-## Here I collect my study projects
-
-
-
- 
+------------------------------------
+|   Here I collect my study projects   |
+------------------------------------ 
 
 
